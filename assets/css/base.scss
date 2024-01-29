@@ -1,0 +1,9 @@
+.menu {
+  & > ul {
+    @apply flex gap-4;
+  }
+}
+
+.red {
+  @apply text-red-500;
+}

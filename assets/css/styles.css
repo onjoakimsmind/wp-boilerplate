@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body.admin-bar {
+    max-height: calc(100vh - 32px);
+}
